@@ -28,7 +28,7 @@ twitter_username: ashandesilva_
 github_username:  ashandesilva
 
 # Build settings
-remote_theme: piharpi/jekyll-klise
+remote_theme: samarsault/texture
 
 #theme: minima
 plugins:
